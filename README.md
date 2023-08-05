@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-###  Languages and Technologies
-
-![ReactJS](https://img.icons8.com/color/48/000000/react-native.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)![Chrome Extensions](https://img.icons8.com/color/48/000000/chrome.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png)
+<h3>Languages and Technologies</h3>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="gopher" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="gopher" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="gopher" width="40" height="40" />
+![Chrome Extensions](https://img.icons8.com/color/48/000000/chrome.png)
+![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
 
 <p align="center">
