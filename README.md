@@ -21,13 +21,13 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome Extension" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/figma-original.svg" alt="Figma" width="40" height="40" />
 </p>
 
 <ul>
  <li>🔭 I’m currently working on exciting web projects and Figma plugins and widgets.</li>
  <li>🌱 I’m constantly learning and improving my skills.</li>
- <li>📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/alieabbasi">LinkedIn</a></li>
+ <li>📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/alieabbasi"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Figma" width="40" height="40" />LinkedIn</a></li>
 </ul>
 
 
