@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=alieabbasi&theme=tokyonight&show_icons=true" width="400" height="99%" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=alieabbasi&theme=tokyonight" width="420" height="99%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alieabbasi&theme=tokyonight&show_icons=true" height="99%" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=alieabbasi&theme=tokyonight" height="99%" />
  </a>
 </p>
