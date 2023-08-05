@@ -26,6 +26,8 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
 </p>
 
+<br />
+
 <ul>
  <li>🔭 I’m currently working on exciting web projects and Figma plugins and widgets.</li>
  <li>🌱 I’m constantly learning and improving my skills.</li>
@@ -33,6 +35,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Figma" width="16" height="16" />
   LinkedIn</a></li>
 </ul>
+
+<br />
 
 <p align="center">
  <a>
