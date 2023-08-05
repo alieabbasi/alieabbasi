@@ -1,5 +1,5 @@
-### Hi there 👋
 ![Header](./github-banner.png)
+
 <!--
 **alieabbasi/alieabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+###  Languages and Technologies
+
+![ReactJS](https://img.icons8.com/color/48/000000/react-native.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![Chrome Extensions](https://img.icons8.com/color/48/000000/chrome.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png)
