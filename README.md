@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 ---
 <h3>Languages and Technologies</h3>
+<p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="gopher" width="40" height="40" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="gopher" width="40" height="40" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="gopher" width="40" height="40" />
+</p>
 ![Chrome Extensions](https://img.icons8.com/color/48/000000/chrome.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 
