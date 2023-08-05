@@ -15,6 +15,10 @@
 
 <br>
 
+Let's connect and build something great together! [![GitHub followers](https://img.shields.io/github/followers/alieabbasi?label=Follow&style=social)](https://github.com/alieabbasi)
+
+<br>
+
 <p align="center">
  <a>
   <img src="https://github-readme-stats.vercel.app/api?username=alieabbasi&theme=tokyonight&show_icons=true" width="400" height="100%" />
