@@ -15,7 +15,9 @@
 
 <br>
 
-Let's connect and build something great together! [![GitHub followers](https://img.shields.io/github/followers/alieabbasi?label=Follow&style=social)](https://github.com/alieabbasi)
+Let's connect and build something great together! 
+
+[![GitHub followers](https://img.shields.io/github/followers/alieabbasi?label=Follow&style=social)](https://github.com/alieabbasi)
 
 <br>
 
