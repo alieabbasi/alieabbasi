@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on exciting web and extension projects.
 - 🌱 I’m constantly learning and improving my skills; Currently I'm exploring Figma plugins and widgets development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alieabbasi) [aliabac7887@gmail.com](mailto:aliabac7887@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alieabbasi) | [aliabac7887@gmail.com](mailto:aliabac7887@gmail.com)
 
 <br>
 
